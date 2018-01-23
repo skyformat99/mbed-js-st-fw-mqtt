@@ -1,0 +1,6 @@
+BUILD
+.mbed
+projectfiles
+*.py*
+RCS
+atmel-rf-driver

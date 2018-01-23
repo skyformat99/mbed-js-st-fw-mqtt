@@ -1,0 +1,26 @@
+{
+  "name": "mbed-js-st-fw-mqtt",
+  "version": "1.0.0",
+  "description": " JS library for testing firmware on flash and MQTT testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-zeeshan/mbed-js-st-fw-mqtt.git"
+  },
+  "keywords": [
+    "mbed",
+    "js",
+    "st-fw-mqtt",
+    "st",
+    "mbed-os"
+  ],
+  "author": "ST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-zeeshan/mbed-js-st-fw-mqtt/issues"
+  },
+  "homepage": "https://github.com/syed-zeeshan/mbed-js-st-fw-mqtt#readme"
+}
